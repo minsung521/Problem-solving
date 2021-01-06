@@ -1,0 +1,2 @@
+D:\PS\baekjoon1260\Debug\baekjoon1260.exe
+D:\PS\baekjoon1260\Debug\baekjoon1260.pdb
